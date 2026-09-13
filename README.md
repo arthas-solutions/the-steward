@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arthas-solutions/the-steward/releases/latest"><strong>Télécharger l’application</strong></a>
+  <a href="https://github.com/arthas-solutions/the-steward/releases"><strong>Télécharger l’application</strong></a>
   ·
   <a href="https://forms.gle/YFLLpFebckD465vj9"><strong>Devenir bêta-testeur</strong></a>
 </p>
@@ -79,7 +79,7 @@ de l’espace Control.
 ## Télécharger et vérifier l’APK
 
 Télécharge `the-steward-0.6.9-universal.apk` depuis la
-[dernière Release](https://github.com/arthas-solutions/the-steward/releases/latest).
+[page des Releases](https://github.com/arthas-solutions/the-steward/releases).
 
 - version : `0.6.9` ;
 - Android 8.0 minimum, dont Android 12 ;
