@@ -1,0 +1,129 @@
+LICENCE PROPRIÉTAIRE D’USAGE PERSONNEL GRATUIT — THE STEWARD 1.0
+
+Copyright © 2026 Stéphane Poulain — Arthas Solutions.
+Tous droits réservés.
+
+La version française du présent document fait foi.
+
+1. OBJET
+
+La présente licence régit l’utilisation de l’application The Steward, en
+particulier de son fichier APK officiellement distribué, ainsi que de ses
+éléments originaux : nom, sceau, logo, identité visuelle, interface,
+illustrations, textes, documentation et logiciels.
+
+Les bibliothèques, données, marques et services de tiers restent soumis à leurs
+propres conditions, recensées dans THIRD_PARTY_NOTICES.md.
+
+2. PROPRIÉTÉ
+
+The Steward et ses éléments originaux restent la propriété exclusive de
+Stéphane Poulain. Leur mise à disposition gratuite ne constitue ni une cession
+de propriété, ni une licence open source, ni une autorisation de réutiliser la
+marque, le logo, l’interface ou le logiciel dans un autre produit.
+
+Tous les droits qui ne sont pas expressément accordés ci-dessous sont réservés.
+
+3. AUTORISATION D’USAGE PERSONNEL GRATUIT
+
+Sous réserve du respect de la présente licence, toute personne est autorisée à :
+
+- télécharger une copie officielle de l’APK depuis un canal désigné par le
+  titulaire ;
+- installer l’application sur ses appareils personnels ;
+- utiliser gratuitement l’application pour ses besoins privés et non
+  commerciaux ;
+- conserver une copie de sauvegarde strictement personnelle de l’APK officiel.
+
+Cette autorisation est personnelle, non exclusive, non transférable, non
+cessible et sans droit de sous-licence.
+
+4. REDISTRIBUTION INTERDITE
+
+Sans autorisation écrite préalable du titulaire, il est interdit de copier ou
+mettre l’APK à disposition de tiers, notamment par miroir, autre dépôt,
+plateforme de téléchargement, réseau pair-à-pair, magasin d’applications ou
+inclusion dans un lot logiciel.
+
+Il est également interdit de vendre, louer, concéder, héberger, distribuer,
+reconditionner ou exploiter commercialement l’application, même sans
+modification et même gratuitement pour l’utilisateur final.
+
+Un simple lien vers la page officielle de distribution reste autorisé.
+
+5. MODIFICATION, EXTRACTION ET APPLICATIONS DÉRIVÉES
+
+Sans autorisation écrite préalable, il est interdit de :
+
+- modifier, adapter, traduire, corriger, recomposer ou altérer l’APK ;
+- contourner une mesure de protection, retirer une signature, une mention de
+  propriété, une attribution ou une information de licence ;
+- décompiler, désassembler, effectuer de l’ingénierie inverse ou tenter
+  d’extraire le code, les ressources ou les mécanismes internes ;
+- créer, publier ou distribuer une application dérivée, une copie, un clone ou
+  un produit reprenant des éléments substantiels de The Steward ;
+- incorporer le logiciel, son interface, son logo, son sceau ou ses ressources
+  originales dans un autre produit ou service ;
+- présenter The Steward ou une partie substantielle de celui-ci comme sa
+  propre création.
+
+Les exceptions imposées par une disposition légale impérative, notamment dans
+les limites strictes nécessaires à l’interopérabilité, ne sont pas affectées.
+
+6. NOM, LOGO ET IDENTITÉ VISUELLE
+
+La présente licence n’accorde aucun droit sur le nom The Steward, le sceau, le
+logo, les icônes, l’identité visuelle ou les signes distinctifs du projet.
+
+Ils ne peuvent pas être utilisés pour identifier, promouvoir ou illustrer un
+autre logiciel, produit, service, organisation ou dépôt sans autorisation
+écrite préalable. Les captures d’écran réalisées pour parler de l’application
+ou en faire une critique loyale restent soumises aux exceptions prévues par la
+loi applicable.
+
+7. DONNÉES DE L’UTILISATEUR ET ÉLÉMENTS TIERS
+
+L’utilisateur reste titulaire de ses propres données saisies dans
+l’application. La présente licence ne transfère au titulaire aucun droit de
+propriété sur ces données.
+
+La présente licence ne limite pas les droits accordés directement par les
+licences des composants ou jeux de données tiers. Les mentions correspondantes
+figurent dans THIRD_PARTY_NOTICES.md.
+
+8. VERSIONS FUTURES ET DISTRIBUTION
+
+Le titulaire reste libre de faire évoluer The Steward, de proposer des versions
+gratuites ou payantes, de le publier sur une boutique d’applications,
+d’accorder d’autres licences ou de cesser sa distribution.
+
+Chaque copie obtenue licitement reste soumise aux conditions qui
+l’accompagnaient lors de son obtention. La présente autorisation prend fin
+automatiquement en cas de violation de ses conditions. L’utilisateur doit alors
+cesser d’utiliser l’application et supprimer les copies concernées.
+
+9. ABSENCE DE GARANTIE ET RESPONSABILITÉ
+
+Dans la mesure permise par la loi, l’application est fournie « en l’état », sans
+garantie expresse ou implicite de disponibilité, d’adéquation à un besoin ou
+d’absence d’erreur.
+
+The Steward est un outil d’organisation personnelle. Il ne constitue pas un
+dispositif médical, ne pose aucun diagnostic et ne remplace pas l’avis d’un
+professionnel qualifié ou d’un service d’urgence.
+
+Dans la mesure permise par la loi applicable, le titulaire ne pourra être tenu
+responsable des dommages indirects résultant de l’utilisation ou de
+l’impossibilité d’utiliser l’application.
+
+10. DROIT APPLICABLE ET CONTACT
+
+La présente licence est régie par le droit français, sans priver un consommateur
+des protections impératives dont il bénéficie dans son pays de résidence.
+
+Toute demande d’autorisation, de licence commerciale ou de partenariat peut
+être adressée à : contact@arthas.fr
+
+Le téléchargement, l’installation ou l’utilisation de l’application vaut
+acceptation de la présente licence. En cas de désaccord, ne téléchargez pas,
+n’installez pas ou cessez d’utiliser l’application.

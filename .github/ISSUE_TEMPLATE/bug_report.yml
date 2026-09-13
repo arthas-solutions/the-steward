@@ -1,0 +1,43 @@
+name: Signaler un bug
+description: Décrire un comportement reproductible sans donnée personnelle.
+title: '[Bug] '
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        N’ajoutez jamais de sauvegarde, d’historique Control ou de donnée de
+        santé réelle. Utilisez le canal privé de SECURITY.md pour une faille.
+  - type: input
+    id: version
+    attributes:
+      label: Version de The Steward
+      placeholder: 0.6.9
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: Appareil et version Android
+      placeholder: Pixel 7 — Android 14
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Étapes de reproduction
+      description: Utilisez uniquement des données fictives.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Résultat attendu
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Résultat observé
+    validations:
+      required: true

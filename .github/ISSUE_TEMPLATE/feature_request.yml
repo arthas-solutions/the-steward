@@ -1,0 +1,22 @@
+name: Proposer une amélioration
+description: Suggérer un besoin ou un parcours utilisateur.
+title: '[Idée] '
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Besoin rencontré
+      description: Quel problème concret cette proposition résout-elle ?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposition
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives envisagées
