@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arthas-solutions/the-steward/releases"><strong>Télécharger l’application</strong></a>
+  <a href="https://github.com/arthas-solutions/The-Steward/releases"><strong>Télécharger l’application</strong></a>
   ·
   <a href="https://forms.gle/YFLLpFebckD465vj9"><strong>Devenir bêta-testeur</strong></a>
 </p>
@@ -72,14 +72,14 @@ questionnaire suivant :
 [**S’inscrire pour devenir bêta-testeur**](https://forms.gle/YFLLpFebckD465vj9)
 
 Les problèmes reproductibles peuvent aussi être signalés dans les
-[issues GitHub](https://github.com/arthas-solutions/the-steward/issues). Ne
+[issues GitHub](https://github.com/arthas-solutions/The-Steward/issues). Ne
 publie jamais de données personnelles, de sauvegarde `.steward` ou de capture
 de l’espace Control.
 
 ## Télécharger et vérifier l’APK
 
 Télécharge `the-steward-0.6.9-universal.apk` depuis la
-[page des Releases](https://github.com/arthas-solutions/the-steward/releases).
+[page des Releases](https://github.com/arthas-solutions/The-Steward/releases).
 
 - version : `0.6.9` ;
 - Android 8.0 minimum, dont Android 12 ;
